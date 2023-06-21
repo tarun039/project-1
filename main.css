@@ -1,0 +1,37 @@
+body{
+   background-color: white;
+}
+.i1{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.i2{
+    margin-left: 20%; 
+}
+.i3{    
+    margin-left: 20%;
+}
+.i4{
+    margin-left: 20%;
+}
+.i5{
+    margin-left: 20%; 
+}
+p{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: black; background-color:goldenrod;
+    padding-left: 20px;
+    width: 200px;
+}
+span{
+    margin-left: 20%;
+}
+h2{
+   color:indigo;
+}
+h3{
+  font-family: 'Lora', serif;
+}
